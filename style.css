@@ -1,1 +1,18 @@
-img.Lixo {float: left; height: 300px; width: 300px;}
+@charset "UTF-8";
+img.lixo{height: 300px; width: 400px;}
+img.lin{height: 300px; width: 400px;}
+img.luke{height: 300px; width: 400px;}
+
+body{
+    background-color: black;
+    color: yellow;
+    font-size: 12px;
+    font-family: Arial;
+}
+
+
+
+h1{
+    font-size: 30px;
+    color: blue;
+};
