@@ -6,13 +6,21 @@ img.luke{height: 300px; width: 400px;}
 body{
     background-color: black;
     color: yellow;
-    font-size: 12px;
-    font-family: Arial;
+    font-size: 30px;
+    font-family: 'Comic Sans MS', cursive;
 }
 
 
 
 h1{
-    font-size: 30px;
+    font-size: 45px;
     color: blue;
-};
+}
+h2{
+    font-size: 25px;
+    color: deepskyblue;
+}
+h3{
+    font-size: 25px;
+    color: salmon;
+}
