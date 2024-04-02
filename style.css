@@ -31,16 +31,17 @@ background: linear-gradient(0deg, rgba(0,0,0,1) 0%, rgba(17,109,159,0.9920343137
 
 h1{
     font-size: 45px;
-    color: blue;
-    text-decoration: none;
+    color: blue;   
 }
 h2{
     font-size: 25px;
-    color: deepskyblue;
-    text-decoration: none;
+    color: deepskyblue;  
 }
 h3{
     font-size: 25px;
-    color: salmon;
+    color: salmon;  
+}
+a{
     text-decoration: none;
+
 }
