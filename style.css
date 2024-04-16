@@ -1,22 +1,11 @@
 @charset "UTF-8";
-img.lixo{
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    width: 30%;
-}
 img.lin{
     display: flex;
     margin-left: auto;
     margin-right: auto;
     width: 30%;
 }
-img.luke{
-    display: flex;
-    margin-left: auto;
-    margin-right: auto;
-    width: 30%;
-}
+
 
 body{
     background: rgb(0,0,0);
@@ -44,4 +33,17 @@ h3{
 a{
     text-decoration: none;
 
+}
+.par{
+    font-size: 16pt;
+    font: "arial", cursive;
+    color: red;
+}
+.impar{
+    font-size: 16pt;
+    font: "verdama", cursive;
+    color: blue;
+}
+#bugs{
+    color: yellowgreen;
 }
